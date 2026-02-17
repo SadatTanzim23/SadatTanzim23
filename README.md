@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔮28' UWINDSOR CS 🎓<br>Aspiring web developer passionate about building and learning, always looking to grow, and currently seeking co-op opportunities.
+🔮28' UWINDSOR CS 🎓<br>Aspiring software developer passionate about building and learning, always looking to grow, and currently seeking co-op opportunities.
 
 
 ## 🌐 Socials:
