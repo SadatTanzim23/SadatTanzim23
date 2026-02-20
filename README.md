@@ -1,4 +1,4 @@
-## Hi👋, I'm Sadat
+# Hi👋, I'm Sadat
 
 <!--
 **SadatTanzim23/SadatTanzim23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img margin="20" align="right" width="350" height="200" src="relax.gif">
 
 
-## Connect 🤝
+# Connect 🤝
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sadattanzim_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sadattanzim01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadattanzim06@gmail.com) 
 
 # Tech & Tools 🛠
