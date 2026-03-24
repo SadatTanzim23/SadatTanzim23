@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="40" height="40"/> About Me
 
-<img margin="20" align="right" width="400" height="250" src="chill.gif">
+<!--<img margin="20" align="right" width="400" height="250" src="chill.gif">-->
+<img align="right" width="400" height="250" src="chill.gif" style="margin-top:-10px; margin-left:10px;">
 🔮28' UWINDSOR CS 🎓<br>Aspiring Software Developer 
 
 
